@@ -1,0 +1,12 @@
+runtime: java
+api_version: '1.0'
+env: flex
+threadsafe: true
+handlers:
+  - url: /.*
+    script: this field is required but ignored.
+automatic_scaling:
+  min_num_instances: 1
+  max_num_instances: 1
+  cpu_utilization:
+    target_utilization: 1.0

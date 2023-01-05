@@ -1,0 +1,17 @@
+[
+  {
+    "eid": 1,
+    "name": "KRISHNA",
+    "email": "krishna@gmail.com",
+    "address": "India,Karnataka",
+    "phone": 88229911
+  },
+  {
+    "eid": 2,
+    "name": "Mallik",
+    "email": "mallik@gmail.com",
+    "address": "US",
+    "phone": 111111
+  }
+]
+
